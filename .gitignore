@@ -1,0 +1,13 @@
+# python stuff
+__pycache__/
+
+# IDE stuff
+.vscode
+.idea
+
+# notebooks stuff
+.ipynb_checkpoints/
+
+# data stuff
+*.csv
+*.parquet
