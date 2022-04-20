@@ -65,11 +65,13 @@ python-dateutil==2.8.2
 pytz==2022.1
 pyzmq==22.3.0
 requests==2.27.1
+scipy==1.8.0
 Send2Trash==1.8.0
 six==1.16.0
 sniffio==1.2.0
 soupsieve==2.3.1
 stack-data==0.2.0
+summa==1.2.0
 terminado==0.13.3
 testpath==0.6.0
 tornado==6.1
