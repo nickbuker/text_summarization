@@ -11,3 +11,6 @@ __pycache__/
 # data stuff
 *.csv
 *.parquet
+
+# pyenv stuff
+.python-version
