@@ -9,8 +9,11 @@ __pycache__/
 .ipynb_checkpoints/
 
 # data stuff
+*.bin
 *.csv
 *.parquet
+*.story
+vocab
 
 # pyenv stuff
 .python-version
