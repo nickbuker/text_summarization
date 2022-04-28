@@ -9,6 +9,9 @@ __pycache__/
 .ipynb_checkpoints/
 
 # data stuff
+cnn_stories_tokenized/
+dm_stories_tokenized/
+finished_files/
 *.bin
 *.csv
 *.parquet
