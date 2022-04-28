@@ -40,3 +40,6 @@ This repo represents the humble beginnings of an exploration of text summarizati
     - `utils.py` - Python helper functions
 - `test/` - Directory housing tests
     - `test_utils.py` - Tests for functions in `utils.py`
+
+### Data Source
+https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail
